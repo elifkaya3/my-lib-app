@@ -6,13 +6,11 @@
 
 ## Kurulum
 ### Backend
-1. `cd backend`
 1. `cd server`
-2. `npm install`
+1. `npm install`
 3. `node index`
 
 ### Frontend
-1. `cd frontend`
-1. `cd my-app`
+1. `cd client`
 2. `npm install`
 3. `npm run dev`
