@@ -1,8 +1,8 @@
 # My Library App
 
-## Proje Yapısı
-- `frontend/`: Next.js tabanlı frontend.
-- `backend/`: Express.js tabanlı backend.
+## Project Structure
+- `frontend/`: Frontend built with Next.js.
+- `backend/`: Backend built with Express.js.
 
 ## Kurulum
 ### Backend
